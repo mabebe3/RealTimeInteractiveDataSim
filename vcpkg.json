@@ -1,0 +1,12 @@
+{
+  "name": "realtimeinteractivedatasim",
+  "version": "0.0.0.0",
+  "dependencies": [
+      "glfw3",
+      "imgui",
+      "implot",
+      "arrow",
+      "tbb",
+      "boost-signals2"
+    ]
+}
